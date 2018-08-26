@@ -1,14 +1,14 @@
 # 100 Days Of Code
 
-### Day 0: August 23, 2018 
+### Day 1: August 26, 2018 
 
-**Today's Progress**: a
+**Today's Progress**: Coursera - Introduction to Interactive Programming in Python(Part2) Week 1 Done & Mini-Project(<a href = "http://www.codeskulptor.org/#user45_TsJHc65sYz_108.py">Link to my project : Memory</a>) which is making mini-game: match the paired cards.
 
-**Thoughts:** 
+**Thoughts:** Had fun.
 
 **Link to work:** 
 
-### Day 1: August 24, 2018  
+### Day 2: August 27, 2018  
 
 **Today's Progress**: 
 
