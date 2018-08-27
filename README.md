@@ -6,7 +6,7 @@
 
 **Today's Progress**: Introduction to Interactive Programming in Python Part2 (Coursera) Week 1 Done & Mini-Project **"Memory"** which is making mini-game: match the paired cards.
 
-<img src = "https://github.com/positive235/100-DAYS-OF-CODE/blob/master/memory.png" width = 800 align = 'middle'>
+<img src = "https://raw.githubusercontent.com/positive235/100-DAYS-OF-CODE/master/memory.png" width = 800 align = 'middle'>
 
 **Thoughts:** Had fun.
 
