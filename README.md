@@ -15,7 +15,7 @@
 
 ### Day 2: August 27, 2018  
 
-**Today's Progress**: 
+**Today's Progress**:  l
 
 **Thoughts:** 
 
