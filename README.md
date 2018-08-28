@@ -15,8 +15,4 @@
 
 ### Day 2: August 27, 2018  
 
-**Today's Progress**:  l
-
-**Thoughts:** 
-
-**Link(s) to work**:
+**Today's Progress**: Week2 Lectures and quizzes done - Introduction to Interactive Programming in Python Part 2 (Coursera)
