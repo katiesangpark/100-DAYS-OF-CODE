@@ -20,7 +20,7 @@
 
 ### Day 4: August 29, 2018
 
-**Today's Progress**: Week 2 Done & Mini-Project "Blackjack" Done - Introduction to Interactive Programming in Python Part 2 (Coursera)
+**Today's Progress**: Week 2 Done & Mini-Project **"Blackjack"** Done - Introduction to Interactive Programming in Python Part 2 (Coursera)
 
 ![alt text](https://raw.githubusercontent.com/positive235/100-DAYS-OF-CODE/master/blackjack.png)
 
