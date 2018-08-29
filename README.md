@@ -22,7 +22,7 @@
 
 **Today's Progress**: Week 2 Done & Mini-Project "Blackjack" Done - Introduction to Interactive Programming in Python Part 2 (Coursera)
 
-![alt text][width = 400](https://raw.githubusercontent.com/positive235/100-DAYS-OF-CODE/master/Screenshot%20from%20blackjack.ogv.png)
+<img src = "https://raw.githubusercontent.com/positive235/100-DAYS-OF-CODE/master/Screenshot%20from%20blackjack.ogv.png" width = 500>
 
 **Thoughts:** Had fun.
 
