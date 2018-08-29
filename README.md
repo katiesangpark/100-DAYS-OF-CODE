@@ -10,9 +10,20 @@
 
 **Thoughts:** Had fun.
 
-
-
-
 ### Day 2: August 27, 2018  
 
 **Today's Progress**: Week2 Lectures and quizzes done - Introduction to Interactive Programming in Python Part 2 (Coursera)
+
+### Day 3: August 28, 2018
+
+**Today's Progress**: still working on mini project  - Introduction to Interactive Programming in Python Part 2 (Coursera) week 2
+
+### Day 4: August 29, 2018
+
+**Today's Progress**: Week 2 Done & Mini-Project "Blackjack" Done - Introduction to Interactive Programming in Python Part 2 (Coursera)
+
+![alt text](/home/haejipark/Documents/miniproject_vid/blackjack.ogv)
+
+**Thoughts:** Had fun.
+
+
