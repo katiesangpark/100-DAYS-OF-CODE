@@ -49,6 +49,7 @@
 
 **Thoughts:** Had fun!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SpRo-gYcevM?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>dfkmsdf</iframe>
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SpRo-gYcevM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
