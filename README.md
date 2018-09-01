@@ -46,7 +46,7 @@
 
 ### Day 6: August 31, 2018
 
-**Today's Progress**:
+**Today's Progress**:d
 
 **Thoughts:**
 
