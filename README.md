@@ -49,7 +49,10 @@
 
 **Thoughts:** Had fun!
 
+### Day 7: September 1, 2018
 
+**Today's Progress**: Mini-Project **"Stopwatch : The Game"** Done - Introduction to interactive programming in python Part 1 Week 4 (Coursera) 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SpRo-gYcevM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+![alt text](https://j.gifs.com/E9j48N.gif)
 
+**Thoughts:** Had fun!
