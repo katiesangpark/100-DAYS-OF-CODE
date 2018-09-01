@@ -26,4 +26,30 @@
 
 **Thoughts:** Had fun.
 
+### Day 5: August 30, 2018
+
+**Today's Progress**:
+1. YouTube videos  
+- Python OOP Tutorials - Working with Classes (Corey Schafer) 
+  https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc
+
+- Classes and Objects with Python - Part 1, Part 2 (CS Dojo)
+  https://www.youtube.com/watch?v=wfcWRAxRVBA
+  https://www.youtube.com/watch?v=WOwi0h_-dfA
+
+- 8. Object Oriented Programming (MIT OpenCourseWare)
+  https://www.youtube.com/watch?v=-DP1i2ZU9gk
+
+2. Coursera - Lectures & Quiz - Principles of Computing pt.1 wk 2 
+
+**Thoughts:** Working on mini-project "2048". Had fun.
+
+### Day 6: August 31, 2018
+
+**Today's Progress**:
+
+**Thoughts:**
+
+
+
 
