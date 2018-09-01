@@ -16,11 +16,11 @@
 
 ### Day 3: August 28, 2018
 
-**Today's Progress**: still working on mini project  - Introduction to Interactive Programming in Python Part 2 (Coursera) week 2
+**Today's Progress**: still working on mini project- Introduction to Interactive Programming in Python Part2 (Coursera) Week2
 
 ### Day 4: August 29, 2018
 
-**Today's Progress**: Week 2 Done & Mini-Project **"Blackjack"** Done - Introduction to Interactive Programming in Python Part 2 (Coursera)
+**Today's Progress**: Week 2 Done & Mini-Project **"Blackjack"** Done - Introduction to Interactive Programming in Python Part2 (Coursera)
 
 ![alt text](https://raw.githubusercontent.com/positive235/100-DAYS-OF-CODE/master/blackjack.png)
 
@@ -37,15 +37,17 @@
   
 - <a href = "https://www.youtube.com/watch?v=-DP1i2ZU9gk">8. Object Oriented Programming (MIT OpenCourseWare)</a>
 
-2. Coursera - Lectures & Quiz - Principles of Computing pt.1 wk 2 
+2. Coursera - Lectures & Quiz - Principles of Computing Part 1 Week 2 
 
 **Thoughts:** Working on mini-project "2048". Had fun.
 
 ### Day 6: August 31, 2018
 
-**Today's Progress**:d
+**Today's Progress**:  Mini-Project **"2048"** Done - Principles of Computing Part 1 Week 2
 
-**Thoughts:**
+![alt text](https://raw.githubusercontent.com/positive235/100-DAYS-OF-CODE/master/2048.png)
+
+**Thoughts:** Had fun!
 
 
 
