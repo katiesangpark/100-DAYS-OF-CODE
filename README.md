@@ -59,9 +59,9 @@
 
 ### Day 8 ~ 9: September 3 ~ 4, 2018
 
-**Today's Progress**: Final Mini-Project **"Pong"** Done -  Introduction to interactive programming in python Part 1 Week 5 (Coursera) 
-
 ![alt text](https://raw.githubusercontent.com/positive235/100-DAYS-OF-CODE/master/pong_combination.png)
+
+**Today's Progress**: Final Mini-Project **"Pong"** Done -  Introduction to interactive programming in python Part 1 Week 5 (Coursera) 
 
 ![alt text](https://j.gifs.com/ZVJ4Z8.gif)
 
