@@ -53,7 +53,7 @@
 
 ![alt text](https://j.gifs.com/E9j48N.gif)
 
-**Thoughts:** Took notes and checked what I did or not. Taking notes was really helpful for progrmming the mini-project. 
+**Thoughts:** Took notes and checked what I did or not. Taking notes was really helpful for programming the mini-project. 
 
 ### Day 8 ~ 9: September 3 ~ 4, 2018
 
@@ -65,6 +65,6 @@
 
 **Thoughts:** Calculating vectors - especially, direction - was confusing and difficult, I tried many times, finally I could calculate it in a right way. Had fun!
 
-### Day 10 ~ 11: September 5 ~ 6, 
+### Day 10 ~ 11: September 5 ~ 6, 2018
 
 
