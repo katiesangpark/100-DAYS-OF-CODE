@@ -65,6 +65,8 @@
 
 **Thoughts:** Calculating vectors - especially, direction - was confusing and difficult, I tried many times, finally I could calculate it in a right way. Had fun!
 
-### Day 10 ~ 11: September 5 ~ 6, 2018
+### Day 10 : September 7, 2018
 
+**Today's Progress**: Week 3 Lectures and Quizzes Done & Week 4 Lectures and Quiz Done - Introduction to interactive programming in python Part 2 (Coursera) 
 
+**Thoughts:** Learned basic programming tips; Sounds, Acceleration, Sets and How to know whether two materials were collided or not.
