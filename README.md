@@ -70,3 +70,20 @@
 **Today's Progress**: Week 3 Lectures and Quizzes Done & Week 4 Lectures and Quiz Done - Introduction to interactive programming in python Part 2 (Coursera) 
 
 **Thoughts:** Learned basic programming tips; Sounds, Acceleration, Sets and How to know whether two materials were collided or not.
+
+### Day 11 : September 8, 2018
+
+**Today's Progress**: 
+- Installed "SimpleGUICS2Pygame" on my Ubuntu : Googling, googling, googling...
+- <a href = "https://simpleguics2pygame.readthedocs.io/en/latest/index.html">SimpleGUICS2Pygame Tutorial Homepage</a>
+- Working on Mini-Project "Spaceship"(In progress) - Introduction to interactive programming in python Part 2 (Coursera)
+
+**Thoughts:**
+- I can make interactive programming programs on my Ubuntu from now on with SimpleGUICS2Pygame! 
+ ( + SimpleGUI on the web - the website <a href = "http://www.codeskulptor.org/">CodeSkulptor</a>)
+- I worked on Mini-project "Spaceship" until 3AM, while checking what I did and what I didn't on the mini-project. Still in progress, but almost done.
+
+### Day 12: September 9, 2018
+
+- *Got a Certificate of "An Introduction to Interactive Programming in Python (Part 1)" by Rice University on Coursera on Sunday, September 9, 2018 4:24 AM GMT.*
+- (In Progress) Mini-Project "Spaceship" of Introduction to interactive programming in python Part 2 (Coursera) 
