@@ -101,7 +101,7 @@
 
 ### Day 14: September 12, 2018
 
-**Today's Progress**: Final Mini-Project "RiceRocks" Done - Introduction to interactive programming in python Part 2 (Coursera)
+**Today's Progress**: Week 4 Final Mini-Project "RiceRocks" Done - Introduction to interactive programming in python Part 2 (Coursera)
 
 ![alt text](https://raw.githubusercontent.com/positive235/100-DAYS-OF-CODE/master/ricerock_combi.png)
 
