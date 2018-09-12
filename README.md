@@ -87,8 +87,14 @@
 
 - ***Got a Certificate of "An Introduction to Interactive Programming in Python (Part 1)" by Rice University on Coursera on Sunday, September 9, 2018 4:24 AM GMT.***
 
-**Today's Progress**: Mini-Project **"Spaceship"** Done -Introduction to interactive programming in python Part 2 (Coursera) 
+**Today's Progress**: Week 3 Mini-Project **"Spaceship"** Done -Introduction to interactive programming in python Part 2 (Coursera) 
 
 ![alt text](https://raw.githubusercontent.com/positive235/100-DAYS-OF-CODE/master/Spaceship.png)
 
 **Thoughts:** A flying spaceship with thurst flames with the key 'up', turning the spaceship clockwise or counterclockwise with the key 'right' or 'left', randomly moving rocks on the random position...Hard work for me, but had fun, too!
+
+### Day 13: September 11, 2018
+
+**Today's Progress**: Working on final mini-project "RiceRocks" (Week 4) - Introduction to interactive programming in python Part 2 Week 4 (Coursera)
+
+**Thoughts:** Getting harder..! Do NOT give up. :)
