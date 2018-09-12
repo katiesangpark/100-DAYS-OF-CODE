@@ -95,6 +95,6 @@
 
 ### Day 13: September 11, 2018
 
-**Today's Progress**: Working on final mini-project "RiceRocks" (Week 4) - Introduction to interactive programming in python Part 2 Week 4 (Coursera)
+**Today's Progress**: Working on final mini-project "RiceRocks" (Week 4) - Introduction to interactive programming in python Part 2 (Coursera)
 
 **Thoughts:** Getting harder..! Do NOT give up. :)
