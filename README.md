@@ -98,3 +98,11 @@
 **Today's Progress**: Working on final mini-project "RiceRocks" (Week 4) - Introduction to interactive programming in python Part 2 (Coursera)
 
 **Thoughts:** Getting harder..! Do NOT give up. :)
+
+### Day 14: September 12, 2018
+
+**Today's Progress**: Final Mini-Project "RiceRocks" Done - Introduction to interactive programming in python Part 2 (Coursera)
+
+![alt text]()
+
+**Thoughts:** Making more multiple rocks, scoring "Lives" & "Score" by collisions, sound playing & rewinding, and so on. Took much time, harder than before, but had fun!  
