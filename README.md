@@ -107,4 +107,4 @@
 
 **Thoughts:** Making more multiple rocks, scoring "Lives" & "Score" by collisions, sound playing & rewinding, and so on. Took much time, harder than before, but had fun! 
 
-### Day 15: September 13, 2018
+### 
