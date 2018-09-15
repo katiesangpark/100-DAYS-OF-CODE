@@ -85,7 +85,7 @@
 
 ### Day 12: September 9, 2018
 
-- ***Got a Certificate of "An Introduction to Interactive Programming in Python (Part 1)" by Rice University on Coursera on Sunday, September 9, 2018 4:24 AM GMT.***
+- ***Got a Certificate of "An Introduction to Interactive Programming in Python (Part 1)" by Rice University on Coursera***
 
 **Today's Progress**: Week 3 Mini-Project **"Spaceship"** Done -Introduction to interactive programming in python Part 2 (Coursera) 
 
@@ -107,4 +107,10 @@
 
 **Thoughts:** Making more multiple rocks, scoring "Lives" & "Score" by collisions, sound playing & rewinding, and so on. Took much time, harder than before, but had fun! 
 
-### 
+### Day 15 - 16: September 14 - 15, 2018
+
+**Progress**: 
+- Still working on Week 3 Mini-Project "Tic-Tac-Toe" - Principles of Computing Part 1
+- ***Got a Certificate of "An Introduction to Interactive Programming in Python (Part 2)" by Rice University on Coursera.***
+
+**Thoughts:** Challenging...!
