@@ -101,7 +101,7 @@
 
 ### Day 14: September 12, 2018
 
-**Today's Progress**: Week 4 Final Mini-Project "RiceRocks" Done - Introduction to interactive programming in python Part 2 (Coursera)
+**Today's Progress**: Week 4 Final Mini-Project **"RiceRocks"** Done - Introduction to interactive programming in python Part 2 (Coursera)
 
 ![alt text](https://raw.githubusercontent.com/positive235/100-DAYS-OF-CODE/master/ricerock_combi.png)
 
@@ -117,8 +117,8 @@
 
 ### Day 17: September 16, 2018
 
-**Today's Progress**: Week 3 Mini-Project "Tic-Tac-Toe" Done - Principles of Computing Part 1
+**Today's Progress**: Week 3 Mini-Project **"Tic-Tac-Toe (Monte Carlo)"** Done - Principles of Computing Part 1
 
 ![alt text]()
 
-**Thoughts:** Computing by Monte Carlo was very difficult. Unfortunately I could not make 100 % successful "Tic-Tac-Toe" Game. The machine player is NOT clever..Got score of 91 %, but I want to make 100 % successful "Tic-Tac-Toe" game later so that I can play with "smart" machine player.
+**Thoughts:** Computing by Monte Carlo was very difficult for me. Unfortunately I could not make 100 % successful "Tic-Tac-Toe" Game. The machine player is NOT clever..Got score of 91 %, but I want to make 100 % successful "Tic-Tac-Toe" game later so that I can play with "smart" machine player.
