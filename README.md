@@ -114,3 +114,11 @@
 - ***Got a Certificate of "An Introduction to Interactive Programming in Python (Part 2)" by Rice University on Coursera.***
 
 **Thoughts:** Challenging...!
+
+### Day 17: September 16, 2018
+
+**Today's Progress**: Week 3 Mini-Project "Tic-Tac-Toe" Done - Principles of Computing Part 1
+
+![alt text]()
+
+**Thoughts:** Computing by Monte Carlo was very difficult. Unfortunately I could not make 100 % successful "Tic-Tac-Toe" Game. The machine player is NOT clever..Got score of 91 %, but I want to make 100 % successful "Tic-Tac-Toe" game later so that I can play with "smart" machine player.
