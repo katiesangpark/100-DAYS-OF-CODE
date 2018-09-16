@@ -117,7 +117,7 @@
 
 ### Day 17: September 16, 2018
 
-**Today's Progress**: Week 3 Mini-Project **"Tic-Tac-Toe (Monte Carlo)"** Done - Principles of Computing Part 1
+**Today's Progress**: Week 3 Mini-Project **"Tic-Tac-Toe (Monte Carlo)"** Done - Principles of Computing Part 1 (Coursera)
 
 ![alt text](https://raw.githubusercontent.com/positive235/100-DAYS-OF-CODE/master/tictactoe.png)
 
