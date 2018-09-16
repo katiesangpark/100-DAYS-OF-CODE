@@ -119,6 +119,6 @@
 
 **Today's Progress**: Week 3 Mini-Project **"Tic-Tac-Toe (Monte Carlo)"** Done - Principles of Computing Part 1
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/positive235/100-DAYS-OF-CODE/master/tictactoe.png)
 
 **Thoughts:** Computing by Monte Carlo was very difficult for me. Unfortunately I could not make 100 % successful "Tic-Tac-Toe" Game. The machine player is NOT clever..Got score of 91 %, but I want to make 100 % successful "Tic-Tac-Toe" game later so that I can play with "smart" machine player.
