@@ -126,6 +126,6 @@
 ### Day 18: September 26, 2018
 
 **Today's Progress**: Took 7/16 Lectures in Week 1 of "Divide and Conquer, Sorting and Searching, and Randomized Algorithms"
-by Stanford University 
+by Stanford University on Coursera
 
 **Thoughts:** 'Algorithm' started! Do NOT give up :)
