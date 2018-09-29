@@ -132,7 +132,7 @@ by Stanford University on Coursera
 
 ### Day 19: September 28, 2018
 
-**Today's Progress**: Week 1 Lectures Done, Assignment in progress - Divide and Conquer, Sorting and Searching, and Randomized Algorithms by Stanford University on Coursera
+**Today's Progress**: Week 1 Lectures and Assignment Done - Divide and Conquer, Sorting and Searching, and Randomized Algorithms by Stanford University on Coursera
 
 **Thoughts:** Learnt about Merge Sort, its time complexity( **O(nlogn)** ), and Big-O Notation.
 Do NOT give up! :)
