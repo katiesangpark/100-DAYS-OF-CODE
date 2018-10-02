@@ -136,3 +136,23 @@ by Stanford University on Coursera
 
 **Thoughts:** Learnt about Merge Sort, its time complexity( **O(nlogn)** ), and Big-O Notation.
 Do NOT give up! :)
+
+### Day 20: October 2, 2018
+
+**Today's Progress**: 
+1. Watched lectures about "Merge Sort" / "Merge Sort in Python" on Youtube.
+- <a href = "https://youtu.be/ctkuGoJPmAE">Merge Sort (Korean)(동빈나) </a>
+- <a href = "https://youtu.be/XaqR3G_NVoo">Merge-sort with Transylvanian-saxon (German) folk dance </a>
+- <a href = "https://youtu.be/Nso25TkBsYI">Python: MergeSort algorithm (Joe James)</a>
+- <a href = "https://youtu.be/iR1CXiC7OQc">Merge Sort Code in Python (nischay malhan) </a>
+- <a href = "https://youtu.be/3aTfQvs-_hA">Merge Sort: Background & Python Code (Brian Faure) </a>
+- <a href = "https://youtu.be/rAqBlKhy_oI">How to Code Merge Sort in Python (Johnathon Kwisses) </a>
+- <a href = "https://youtu.be/TzeBrDU-JaY">Merge sort algorithm (mycodeschool) </a>
+- <a href = "https://youtu.be/kM_w42z0ZtQ">Python Programming - Merge Sort (intrigano) </a>
+- <a href = "https://youtu.be/KF2j-9iSf4Q">Algorithms: Merge Sort (HackerRank)</a>
+- <a href = "https://youtu.be/UaplcQYgo_w">Merge sort in python (The New Edge) </a>
+- <a href = "https://youtu.be/Kg4bqzAqRBM">3. Insertion Sort, Merge Sort (MITOpenCourseWare) </a>
+
+2. Tried to make Merge Sort in Python
+
+**Thoughts:**
