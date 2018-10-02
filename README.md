@@ -154,7 +154,7 @@ Do NOT give up! :)
 - <a href = "https://youtu.be/Kg4bqzAqRBM">3. Insertion Sort, Merge Sort (MITOpenCourseWare) </a>
 
 2. Tried "Merge Sort" programming in Python
-
+![alt text](https://raw.githubusercontent.com/positive235/100-DAYS-OF-CODE/master/mergesortcode11.png)
 - Codes From: <a href = "https://smlee729.github.io/python/algorithm/2015/03/03/1-merge-sort.html">Merge Sort in Python (Korean) (Jacob's coding playground) </a>
 
 **Thoughts:** Watching lectures on Youtube and trying the code of "Jacob's coding playground" was helpful to understand more about "Merge Sort".
