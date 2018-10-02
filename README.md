@@ -163,4 +163,4 @@ Do NOT give up! :)
 
 ![alt text](https://raw.githubusercontent.com/positive235/100-DAYS-OF-CODE/master/leetcodemerge.png)
 
-**Thoughts:** Watching lectures on Youtube, trying the code of "Jacob's coding playground" and solving algorithmic problem on website was helpful to understand more about "Merge Sort". 
+**Thoughts:** Watching lectures on Youtube, trying the code in python and solving algorithmic problem on website was helpful to understand more about "Merge Sort". 
