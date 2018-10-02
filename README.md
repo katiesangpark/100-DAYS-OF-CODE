@@ -154,8 +154,9 @@ Do NOT give up! :)
 - <a href = "https://youtu.be/Kg4bqzAqRBM">3. Insertion Sort, Merge Sort (MITOpenCourseWare) </a>
 
 2. Tried "Merge Sort" programming in Python
-![alt text](https://raw.githubusercontent.com/positive235/100-DAYS-OF-CODE/master/mergesortcode11.png)
 - Codes From: <a href = "https://smlee729.github.io/python/algorithm/2015/03/03/1-merge-sort.html">Merge Sort in Python (Korean) (Jacob's coding playground) </a>
+
+![alt text](https://raw.githubusercontent.com/positive235/100-DAYS-OF-CODE/master/mergesortcode11.png)
 
 3. Solved Leetcode Problem related to Merge Sort
 - <a href = "https://leetcode.com/problems/merge-two-sorted-lists/description/">LeetCode: 21. Merge Two Sorted Lists </a>
