@@ -153,6 +153,8 @@ Do NOT give up! :)
 - <a href = "https://youtu.be/UaplcQYgo_w">Merge sort in python (The New Edge) </a>
 - <a href = "https://youtu.be/Kg4bqzAqRBM">3. Insertion Sort, Merge Sort (MITOpenCourseWare) </a>
 
-2. Tried to make Merge Sort in Python
+2. Tried "Merge Sort" programming in Python
 
-**Thoughts:**
+- Codes From: <a href = "https://smlee729.github.io/python/algorithm/2015/03/03/1-merge-sort.html">Merge Sort in Python (Korean) (Jacob's coding playground) </a>
+
+**Thoughts:** Watching lectures on Youtube and trying the code of "Jacob's coding playground" was helpful to understand more about "Merge Sort".
