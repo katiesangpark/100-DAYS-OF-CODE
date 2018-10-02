@@ -157,4 +157,7 @@ Do NOT give up! :)
 ![alt text](https://raw.githubusercontent.com/positive235/100-DAYS-OF-CODE/master/mergesortcode11.png)
 - Codes From: <a href = "https://smlee729.github.io/python/algorithm/2015/03/03/1-merge-sort.html">Merge Sort in Python (Korean) (Jacob's coding playground) </a>
 
-**Thoughts:** Watching lectures on Youtube and trying the code of "Jacob's coding playground" was helpful to understand more about "Merge Sort".
+3. Solved Leetcode Problem related to Merge Sort
+<a href = "https://leetcode.com/problems/merge-two-sorted-lists/description/"> LeetCode 21. Merge Two Sorted Lists </a>
+
+**Thoughts:** Watching lectures on Youtube, trying the code of "Jacob's coding playground" and solving algorithmic problem on website was helpful to understand more about "Merge Sort". 
