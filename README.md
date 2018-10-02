@@ -160,4 +160,6 @@ Do NOT give up! :)
 3. Solved Leetcode Problem related to Merge Sort
 - <a href = "https://leetcode.com/problems/merge-two-sorted-lists/description/">LeetCode: 21. Merge Two Sorted Lists </a>
 
+![alt text](https://raw.githubusercontent.com/positive235/100-DAYS-OF-CODE/master/leetcodemerge.png)
+
 **Thoughts:** Watching lectures on Youtube, trying the code of "Jacob's coding playground" and solving algorithmic problem on website was helpful to understand more about "Merge Sort". 
