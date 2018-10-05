@@ -164,3 +164,9 @@ Do NOT give up! :)
 ![alt text](https://raw.githubusercontent.com/positive235/100-DAYS-OF-CODE/master/leetcodemerge.png)
 
 **Thoughts:** Watching lectures on Youtube, trying the code in python and solving algorithmic problem on website was helpful to understand more about "Merge Sort". 
+
+### Day 21: October 5, 2018
+(It will be updated) 
+**Today's Progress**: Took ? / 12 Lectures in Week 2 of "Divide and Conquer, Sorting and Searching, and Randomized Algorithms" by Stanford University on Coursera
+
+(~ O(nlogn) algorithm for counting inversions 1)
