@@ -170,3 +170,9 @@ Do NOT give up! :)
 **Today's Progress**: Took 2 / 12 Lectures in Week 2 of "Divide and Conquer, Sorting and Searching, and Randomized Algorithms" by Stanford University on Coursera
 
 **Thoughts:** Divide and conquer algorithm started! Don't give up !
+
+### Day 22: October 7, 2018
+
+**Today's Progress**: Week 2 Divide and Conquer - "Divide and Conquer, Sorting and Searching, and Randomized Algorithms" by Stanford University on Coursera 
+
+**Thoughts:** Learned Divide and conquer algorithm! Don't give up
