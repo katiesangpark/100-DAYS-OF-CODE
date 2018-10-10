@@ -179,6 +179,8 @@ Do NOT give up! :)
 
 ### Day 23: October 10, 2018
 
+***It will be updated soon***
+
 **Today's Progress**: 
 1. Watched Youtube video
 - <a href = "https://youtu.be/eBu1Z_FBwb4">Divide and be conquered (Intro to computer science) - Udacity </a>
