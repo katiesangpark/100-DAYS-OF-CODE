@@ -176,3 +176,14 @@ Do NOT give up! :)
 **Today's Progress**: Week 2 Divide and Conquer - "Divide and Conquer, Sorting and Searching, and Randomized Algorithms" by Stanford University on Coursera 
 
 **Thoughts:** Learned Divide and conquer algorithm! Don't give up
+
+### Day 23: October 10, 2018
+
+**Today's Progress**: 
+1. Watched Youtube video
+- <a href = "https://youtu.be/eBu1Z_FBwb4">Divide and be conquered (Intro to computer science) - Udacity </a>
+- <a href = "https://youtu.be/T68vN1FNY4o">Master Theorem</a>
+
+2. Took 1 + ? Lectures of Week 3 Quick Sort - "Divide and Conquer, Sorting and Searching, and Randomized Algorithms" by Stanford University on Coursera 
+
+**Thoughts:** Quick Sort Algorithm started! Don't give up!
