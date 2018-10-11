@@ -194,6 +194,11 @@ Do NOT give up! :)
 
 ### Day 24: October 11, 2018
 
+***It will be updated soon***
+
 **Today's Progress**: 
+1. Read blog posts and codes related to Divide-and-conquer
+- <a href = "https://www.tutorialspoint.com/python/python_divide_and_conquer.htm">Python - Divide and conquer</a>
+- <a href = "https://brilliant.org/wiki/divide-and-conquer/">Divide and Conquer</a>
 
 **Thoughts:** 
