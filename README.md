@@ -184,7 +184,7 @@ Do NOT give up! :)
 - <a href = "https://youtu.be/eBu1Z_FBwb4">Divide and be conquered (Intro to computer science) - Udacity </a>
 - <a href = "https://youtu.be/T68vN1FNY4o">Master Theorem</a>
 
-2. Tried to solve devide-and-conquer algorithmic problem on LeetCode, but failed. Still working on.
+2. Tried to solve devide-and-conquer algorithmic problem on LeetCode, but failed to solve it. Still working on.
 (<a href = "https://leetcode.com/problems/different-ways-to-add-parentheses/description/">241. Different Ways to Add Parentheses
 </a>)
 
