@@ -179,13 +179,21 @@ Do NOT give up! :)
 
 ### Day 23: October 10, 2018
 
-***It will be updated soon***
-
 **Today's Progress**: 
 1. Watched Youtube video
 - <a href = "https://youtu.be/eBu1Z_FBwb4">Divide and be conquered (Intro to computer science) - Udacity </a>
 - <a href = "https://youtu.be/T68vN1FNY4o">Master Theorem</a>
 
-2. Took 1 + ? Lectures of Week 3 Quick Sort - "Divide and Conquer, Sorting and Searching, and Randomized Algorithms" by Stanford University on Coursera 
+2. Tried to solve devide-and-conquer algorithmic problem on LeetCode, but failed. Still working on.
+(<a href = "https://leetcode.com/problems/different-ways-to-add-parentheses/description/">241. Different Ways to Add Parentheses
+</a>)
 
-**Thoughts:** Quick Sort Algorithm started! Don't give up!
+3. lecture (1) of Week3 Quick sort - "Divide and Conquer, Sorting and Searching, and Randomized Algorithms" by Stanford University on Coursera 
+
+**Thoughts:** Don't give up! Good luck! :)
+
+### Day 24: October 11, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
