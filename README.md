@@ -198,7 +198,16 @@ Do NOT give up! :)
 - <a href = "https://www.tutorialspoint.com/python/python_divide_and_conquer.htm">Python - Divide and conquer</a>
 - <a href = "https://brilliant.org/wiki/divide-and-conquer/">Divide and Conquer</a>
 
-### Day 25: October 14, 2018
-**Today's Progress**:
+### Day 25: October 17, 2018
 
-**Thoughts:**
+**Today's Progress**:
+1. Lectures of Week3 Quick sort - "Divide and Conquer, Sorting and Searching, and Randomized Algorithms" by Stanford University on Coursera 
+
+2. Watched Youtube videos related to Quick Sort Algorithm
+- <a href = "https://youtu.be/CB_NCoxzQnk"> Python: QuickSort algorithm </a>
+- <a href = "https://youtu.be/RFyLsF9y83c"> The quicksort algorithm coded live in Python </a>
+- <a href = "https://youtu.be/RFyLsF9y83c"> Quicksort: Background & Python Code </a>
+- <a href = "https://youtu.be/aQiWF4E8flQ"> Quicksort </a>
+- <a href = "https://youtu.be/90kbMbQWopw"> Python Algorithms - QuickSort - divide and conquer </a>
+
+**Thoughts:** Don't give up! Good Luck :)
