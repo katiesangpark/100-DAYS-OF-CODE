@@ -211,3 +211,11 @@ Do NOT give up! :)
 - <a href = "https://youtu.be/90kbMbQWopw"> Python Algorithms - QuickSort - divide and conquer </a>
 
 **Thoughts:** Don't give up! Good Luck :)
+
+### Day 26: October 28, 2018
+
+**Today's Progress**:
+1. Tried Python code for Quick Sort
+
+
+**Thoughts:** Don't give up! Good luck!
