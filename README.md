@@ -215,7 +215,8 @@ Do NOT give up! :)
 ### Day 26: October 28, 2018
 
 **Today's Progress**:
-1. Tried Python code for Quick Sort
+1. Tried Python code for Quick Sort 
+- Python code from: <a href = "https://youtu.be/RFyLsF9y83c"> Quicksort: Background & Python Code (Brian Faure)</a>
 
 
 **Thoughts:** Don't give up! Good luck!
