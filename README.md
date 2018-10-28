@@ -218,4 +218,6 @@ Do NOT give up! :)
 1. Tried Python code for Quick Sort 
 - Python code from: <a href = "https://youtu.be/RFyLsF9y83c"> Quicksort: Background & Python Code (Brian Faure)</a>
 
+![alt text](https://raw.githubusercontent.com/positive235/100-DAYS-OF-CODE/master/quicksort2.png)
+
 **Thoughts:** Don't give up! Good luck!
