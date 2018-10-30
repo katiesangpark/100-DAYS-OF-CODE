@@ -227,6 +227,7 @@ Do NOT give up! :)
 **Today's Progress:**
 1. Watched lecture videos of "MIT 6.006 Introduction to Algorithms, Fall 2011"
 
-- Lec 1 Algorithmic Thinking, Peak Finding
+- Lec 1. Algorithmic Thinking, Peak Finding
+- Lec 2. Models of Computation, Document Distance
 
 **Thoughts:** Don't give up! Good luck!
