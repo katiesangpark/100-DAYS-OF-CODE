@@ -221,3 +221,12 @@ Do NOT give up! :)
 ![alt text](https://raw.githubusercontent.com/positive235/100-DAYS-OF-CODE/master/quicksort2.png)
 
 **Thoughts:** Don't give up! Good luck!
+
+### Day 27: October 30, 2018
+
+**Today's Progress:**
+1. Watched lecture videos of "MIT 6.006 Introduction to Algorithms, Fall 2011"
+
+- Lec 1 Algorithmic Thinking, Peak Finding
+
+**Thoughts:** Don't give up! Good luck!
