@@ -229,5 +229,6 @@ Do NOT give up! :)
 
 - Lec 1. Algorithmic Thinking, Peak Finding
 - Lec 2. Models of Computation, Document Distance
+- Lec 3. Insertion Sort, Merge Sort
 
 **Thoughts:** Don't give up! Good luck!
