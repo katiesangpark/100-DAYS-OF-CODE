@@ -225,7 +225,7 @@ Do NOT give up! :)
 ### Day 27: October 30, 2018
 
 **Today's Progress:**
-1. Watched lecture videos of "MIT 6.006 Introduction to Algorithms, Fall 2011"
+1. Lecture videos of "MIT 6.006 Introduction to Algorithms, Fall 2011"
 
 - Lec 1. Algorithmic Thinking, Peak Finding
 - Lec 2. Models of Computation, Document Distance
