@@ -235,9 +235,13 @@ Do NOT give up! :)
 
 ### Day 28: November 1, 2018
 
-**Today's Progress:**
+**Today's Progress:** Heap Sort, BST
+
 - Lec 4. Heaps and Heap Sort (MIT 6.006 Introduction to Algorithms, Fall 2011)
 - blog : <a href = "https://ratsgo.github.io/data%20structure&algorithm/2017/09/27/heapsort/">Heap sort (Korean)</a>
 - Lec 5. Binary Search Trees, BST Sort (MIT 6.006 Introduction to Algorithms, Fall 2011)
+- YouTube video : <a href = "https://youtu.be/IcK2Qyk3cUs">Binary Search: Background & Python Code(Brian Faure)</a>
 
 **Thoughts:** Don't give up! Good luck!
+
+
