@@ -232,3 +232,12 @@ Do NOT give up! :)
 - Lec 3. Insertion Sort, Merge Sort
 
 **Thoughts:** Don't give up! Good luck!
+
+### Day 28: November 1, 2018
+
+**Today's Progress:**
+1. Lecture videos of "MIT 6.006 Introduction to Algorithms, Fall 2011"
+
+- Lec 4. Heaps and Heap Sort
+
+**Thoughts:** Don't give up! Good luck!
