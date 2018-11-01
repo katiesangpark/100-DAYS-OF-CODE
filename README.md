@@ -238,5 +238,6 @@ Do NOT give up! :)
 **Today's Progress:**
 - Lec 4. Heaps and Heap Sort (MIT 6.006 Introduction to Algorithms, Fall 2011)
 - blog : <a href = "https://ratsgo.github.io/data%20structure&algorithm/2017/09/27/heapsort/">Heap sort (Korean)</a>
+- Lec 5. Binary Search Trees, BST Sort (MIT 6.006 Introduction to Algorithms, Fall 2011)
 
 **Thoughts:** Don't give up! Good luck!
