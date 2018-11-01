@@ -236,8 +236,8 @@ Do NOT give up! :)
 ### Day 28: November 1, 2018
 
 **Today's Progress:**
-1. Lecture videos of "MIT 6.006 Introduction to Algorithms, Fall 2011"
-
-- Lec 4. Heaps and Heap Sort
+- Lec 4. Heaps and Heap Sort (MIT 6.006 Introduction to Algorithms, Fall 2011)
+- blog : <a href = "https://ratsgo.github.io/data%20structure&algorithm/2017/09/27/heapsort/">Heap sort (Korean)</a>
+- Tried to implement Heap Sort code in Python
 
 **Thoughts:** Don't give up! Good luck!
