@@ -245,3 +245,8 @@ Do NOT give up! :)
 
 **Thoughts:** Implementing codes - Heap Sort, BST - in python 3 was difficult for me. Good luck, Don't give up!
 
+### Day 29: November 2, 2018
+
+**Today's Progress:** 
+
+**Thoughts:** 
