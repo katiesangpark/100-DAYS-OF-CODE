@@ -241,7 +241,7 @@ Do NOT give up! :)
 - blog : <a href = "https://ratsgo.github.io/data%20structure&algorithm/2017/09/27/heapsort/">Heap sort (Korean)</a>
 - Lec 5. Binary Search Trees, BST Sort (MIT 6.006 Introduction to Algorithms, Fall 2011)
 - YouTube video : <a href = "https://youtu.be/IcK2Qyk3cUs">Binary Search: Background & Python Code(Brian Faure)</a>
+- YouTube video : <a href = "https://youtu.be/zeULw-a7Mw8">Algorithms in Python: Binary Search(LucidProgramming)</a>
 
 **Thoughts:** Don't give up! Good luck!
-
 
