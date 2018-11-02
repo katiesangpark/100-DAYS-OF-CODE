@@ -243,5 +243,5 @@ Do NOT give up! :)
 - YouTube video : <a href = "https://youtu.be/IcK2Qyk3cUs">Binary Search: Background & Python Code(Brian Faure)</a>
 - YouTube video : <a href = "https://youtu.be/zeULw-a7Mw8">Algorithms in Python: Binary Search(LucidProgramming)</a>
 
-**Thoughts:** Don't give up! Good luck!
+**Thoughts:** Implementing codes - Heap Sort, BST - in python 3 was difficult for me. Good luck, Don't give up!
 
