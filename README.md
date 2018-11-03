@@ -253,6 +253,6 @@ Do NOT give up! :)
 
 ### Day 30: November 3, 2018
 
-**Today's Progress:** 
+**Today's Progress:** Lec 7. Counting Sort, Radix Sort, Lower Bounds for Sorting (MIT 6.006 Introduction to Algorithms, Fall 2011)
 
 **Thoughts:** 
