@@ -247,6 +247,12 @@ Do NOT give up! :)
 
 ### Day 29: November 2, 2018
 
+**Today's Progress:** Lec 6. AVL Trees, AVL Sort (MIT 6.006 Introduction to Algorithms, Fall 2011)
+
+**Thoughts:** Good Luck, Don't give up!
+
+### Day 30: November 3, 2018
+
 **Today's Progress:** 
 
 **Thoughts:** 
