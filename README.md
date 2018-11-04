@@ -258,4 +258,12 @@ Do NOT give up! :)
 - Lec 8. Hashing with Chaining (MIT 6.006 Introduction to Algorithms, Fall 2011)
 - Lec 9. Table Doubling, Karp-Rabin (MIT 6.006 Introduction to Algorithms, Fall 2011)
 
-**Thoughts:** Good Luck, Don't give up!
+**Thoughts:** Don't give up, Good luck!
+
+### Day 31: November 4, 2018
+
+**Today's Progress:** 
+- Lec 10. Open Addressing, Cryptographic Hashing (MIT 6.006 Introduction to Algorithms, Fall 2011)
+
+**Thoughts:** Learned Hashing. 
+Don't give up!
