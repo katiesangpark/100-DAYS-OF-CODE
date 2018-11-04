@@ -264,6 +264,6 @@ Do NOT give up! :)
 
 **Today's Progress:** 
 - Lec 10. Open Addressing, Cryptographic Hashing (MIT 6.006 Introduction to Algorithms, Fall 2011)
+- Lec 11. Integer Arithmetic, Karatsuba Multiplication
 
-**Thoughts:** Learned Hashing. 
-Don't give up!
+**Thoughts:** Good Luck, Don't give up!
