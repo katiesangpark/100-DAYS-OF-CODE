@@ -267,3 +267,13 @@ Do NOT give up! :)
 - Lec 11. Integer Arithmetic, Karatsuba Multiplication
 
 **Thoughts:** Good Luck, Don't give up!
+
+### Day 32: November 5, 2018
+
+**Today's Progress:** 
+1. AVL Tree to Python Code
+- <a href = "https://youtu.be/lxHF-mVdwK8">AVL Tree: Background & Python Code</a>
+- <a href = "https://github.com/bfaure/Python3_Data_Structures/blob/master/AVL_Tree/main.py"> AVL Tree Python Code | GitHub</a>
+- <a href = "https://github.com/bfaure/Python3_Data_Structures/blob/master/Binary_Search_Tree/main.py"> BST Python Code | GitHub </a>
+
+**Thoughts:** 
