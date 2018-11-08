@@ -282,4 +282,7 @@ Do NOT give up! :)
 - <a href = "https://www.youtube.com/watch?v=44_EciT217A">counting sort algorithm concept. (python) </a>
 - <a href = "https://www.youtube.com/watch?v=XEfCSrhYUwo"> Counting Sort | Code Tutorial </a>
 
+3. Implemented Counting Sort code in Python 3
+- <a href = "https://github.com/positive235/100-DAYS-OF-CODE/blob/master/countingsort.py">Link to "Counting Sort in Python3"(countingsort.py)</a>
+
 **Thoughts:** Good Luck, Don't give up!
