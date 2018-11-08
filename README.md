@@ -285,4 +285,4 @@ Do NOT give up! :)
 3. Implemented Counting Sort code in Python 3
 - <a href = "https://github.com/positive235/100-DAYS-OF-CODE/blob/master/countingsort.py">Link to "Counting Sort in Python3"(countingsort.py)</a>
 
-**Thoughts:** Good Luck, Don't give up!
+**Thoughts:** Had fun with trying to implement counting sort code!
