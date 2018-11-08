@@ -268,7 +268,7 @@ Do NOT give up! :)
 
 **Thoughts:** Good Luck, Don't give up!
 
-### Day 32: November 5, 2018
+### Day 32: November 7, 2018
 
 **Today's Progress:** 
 1. AVL Tree to Python Code
@@ -276,4 +276,10 @@ Do NOT give up! :)
 - <a href = "https://github.com/bfaure/Python3_Data_Structures/blob/master/AVL_Tree/main.py"> AVL Tree Python Code | GitHub</a>
 - <a href = "https://github.com/bfaure/Python3_Data_Structures/blob/master/Binary_Search_Tree/main.py"> BST Python Code | GitHub </a>
 
-**Thoughts:** 
+2. Counting Sort in Python
+- <a href = "https://www.youtube.com/watch?v=OKd534EWcdk">Learn Counting Sort Algorithm in LESS THAN 6 MINUTES!</a>
+- <a href = "https://www.youtube.com/watch?v=LoNoeNiTZHI">Counting sort in python</a>
+- <a href = "https://www.youtube.com/watch?v=44_EciT217A">counting sort algorithm concept. (python) </a>
+- <a href = "https://www.youtube.com/watch?v=XEfCSrhYUwo"> Counting Sort | Code Tutorial </a>
+
+**Thoughts:** Good Luck, Don't give up!
