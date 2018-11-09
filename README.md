@@ -276,7 +276,7 @@ Do NOT give up! :)
 - <a href = "https://github.com/bfaure/Python3_Data_Structures/blob/master/AVL_Tree/main.py"> AVL Tree Python Code | GitHub</a>
 - <a href = "https://github.com/bfaure/Python3_Data_Structures/blob/master/Binary_Search_Tree/main.py"> BST Python Code | GitHub </a>
 
-2. Counting Sort in Python
+2. Counting Sort in Python (YouTube videos)
 - <a href = "https://www.youtube.com/watch?v=OKd534EWcdk">Learn Counting Sort Algorithm in LESS THAN 6 MINUTES!</a>
 - <a href = "https://www.youtube.com/watch?v=LoNoeNiTZHI">Counting sort in python</a>
 - <a href = "https://www.youtube.com/watch?v=44_EciT217A">counting sort algorithm concept. (python) </a>
@@ -286,3 +286,11 @@ Do NOT give up! :)
 - <a href = "https://github.com/positive235/100-DAYS-OF-CODE/blob/master/countingsort.py">Link to "Counting Sort in Python3"(countingsort.py)</a>
 
 **Thoughts:** Had fun with trying to implement counting sort code!
+
+### Day 33: November 8, 2018
+
+**Today's Progress:** Radix Sort (YouTube videos)
+- <a href = "https://youtu.be/eCnKp9bzErg"> [알고리즘] 제8-2강 sorting in linear time: Radix Sort (Korean) </a>
+- <a href = "https://www.youtube.com/watch?v=YXFI4osELGU">Sorting Algorithm | Radix Sort - step by step guide</a>\
+
+**Thoughts:** Tried to implement radix sort code in python but it was difficult
