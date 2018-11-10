@@ -293,4 +293,11 @@ Do NOT give up! :)
 - <a href = "https://youtu.be/eCnKp9bzErg"> [알고리즘] 제8-2강 sorting in linear time: Radix Sort (Korean) </a>
 - <a href = "https://www.youtube.com/watch?v=YXFI4osELGU">Sorting Algorithm | Radix Sort - step by step guide</a>\
 
-**Thoughts:** Tried to implement radix sort code in python but it was difficult
+**Thoughts:** Good luck, Don't give up
+
+### Day 34: November 10, 2018
+
+**Today's Progress:** 
+
+**Thoughts:**
+
