@@ -264,7 +264,7 @@ Do NOT give up! :)
 
 **Today's Progress:** 
 - Lec 10. Open Addressing, Cryptographic Hashing (MIT 6.006 Introduction to Algorithms, Fall 2011)
-- Lec 11. Integer Arithmetic, Karatsuba Multiplication
+- Lec 11. Integer Arithmetic, Karatsuba Multiplication (MIT 6.006 Introduction to Algorithms, Fall 2011)
 
 **Thoughts:** Good Luck, Don't give up!
 
@@ -298,6 +298,9 @@ Do NOT give up! :)
 ### Day 34: November 11, 2018
 
 **Today's Progress:** 
+1. Watched Youtube videos related to Hashing, Hashtable - "Python: Hashmap using Lists", "Hash Tables in Python", "Data Structures: Hash Tables", "Hash Tables (CS50)"
+
+2. PyTorch Scholarship Challenge (Udacity)
 
 **Thoughts:**
 
