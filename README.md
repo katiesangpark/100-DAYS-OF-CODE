@@ -295,7 +295,7 @@ Do NOT give up! :)
 
 **Thoughts:** Good luck, Don't give up
 
-### Day 34: November 10, 2018
+### Day 34: November 11, 2018
 
 **Today's Progress:** 
 
