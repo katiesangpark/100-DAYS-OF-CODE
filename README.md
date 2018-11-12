@@ -300,7 +300,9 @@ Do NOT give up! :)
 **Today's Progress:** 
 1. Watched Youtube videos related to Hashing, Hashtable - "Python: Hashmap using Lists", "Hash Tables in Python", "Data Structures: Hash Tables", "Hash Tables (CS50)"
 
-2. PyTorch Scholarship Challenge (Udacity)
+2. PyTorch Scholarship Challenge (Udacity) : ~ Lesson 2.10 Perceptron Algorithm
+ - Watched related Youtube videos : "2.퍼셉트론(십분딥러닝)", "3.퍼셉트론_인공신경망(십분딥러닝)", "신경망이란 무엇인가? | 1장.딥러닝에 관하여(3Blue1Brown), "머신러닝 딥러닝 바로가기 5강 - 퍼셉트론 코드 분석(윤인성)"
 
-**Thoughts:**
+3. Introduction to Data Science in Python (Coursera): WEEK 1 Lectures done.
 
+**Thoughts:** Good Luck!
