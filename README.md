@@ -306,3 +306,12 @@ Do NOT give up! :)
 3. Introduction to Data Science in Python (Coursera): WEEK 1 Lectures done.
 
 **Thoughts:** Good Luck!
+
+### Day 35: November 13, 2018
+
+**Today's Progress:** 
+
+1. PyTorch Scholarship Challenge (Udacity) : Lesson 2.11 ~ 2.21 Multi-Class Crossentropy
+2. Introduction to Data Science in Python (Coursera): ~ 2.4 The DataFrame Data Structure
+
+**Thoughts:** Learnt Softmax function, One-Hot Encoding, Cross Entropy,and the functions of the pandas. 
