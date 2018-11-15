@@ -310,8 +310,15 @@ Do NOT give up! :)
 ### Day 35: November 13, 2018
 
 **Today's Progress:** 
-
 1. PyTorch Scholarship Challenge (Udacity) : Lesson 2.11 ~ 2.21 Multi-Class Crossentropy
 2. Introduction to Data Science in Python (Coursera): ~ 2.4 The DataFrame Data Structure
 
 **Thoughts:** Learnt Softmax function, One-Hot Encoding, Cross Entropy,and the functions of the pandas. 
+
+### Day 36: November 14, 2018
+
+**Today's Progress:** 
+1. PyTorch Scholarship Challenge (Udacity) : Lesson 2.22 ~ 2.24 Logistic Regression Algorithm
+2. Introduction to Data Science in Python (Coursera): WEEK 2 Lectures (about Pandas) done.
+
+**Thoughts:** Learnt Logistic regression, Gradient descent, and about dataframe of pandas. 
