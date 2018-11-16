@@ -321,4 +321,13 @@ Do NOT give up! :)
 1. PyTorch Scholarship Challenge (Udacity) : Lesson 2.22 ~ 2.24 Logistic Regression Algorithm
 2. Introduction to Data Science in Python (Coursera): WEEK 2 Lectures (about Pandas) done.
 
-**Thoughts:** Learnt Logistic regression, Gradient descent, and about dataframe of pandas. 
+**Thoughts:** Learnt Logistic regression, Gradient descent, and about dataframe of pandas.
+
+### Day 37: November 15, 2018
+
+**Today's Progress:** 
+1. Intro to Data Science in Python(Coursera): WEEK 2 programming assignment Passed.(Analysis of data & Programming in Pandas)
+
+**Thoughts:** It was great oppportunity for me to try pandas programming by this assignment.
+
+
