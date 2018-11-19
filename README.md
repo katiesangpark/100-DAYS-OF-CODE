@@ -330,4 +330,14 @@ Do NOT give up! :)
 
 **Thoughts:** It was great oppportunity for me to try pandas programming by this assignment.
 
+### Day 38: November 18, 2018
+
+**Today's Progress:** 
+1. PyTorch Scholarship Challenge (Udacity) : Lesson 2, Lesson 3 Done
+2. Introduction to Data Science in Python (Coursera): WEEK 3 Lectures and WEEK 4 Lectures done.
+
+**Thoughts:** 
+1. Learnt basic concepts of Neural Networks and watched interviews with pytorch creator. 
+2. Learnt pandas - merge, groupby, apply, pivot_table, and distribution (normal, binomial, etc.) and so on.
+
 
