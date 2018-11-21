@@ -340,4 +340,11 @@ Do NOT give up! :)
 1. Learnt basic concepts of Neural Networks and watched interviews with pytorch creator. 
 2. Learnt pandas - merge, groupby, apply, pivot_table, and distribution (normal, binomial, etc.) and so on.
 
+### Day 39: November 21, 2018
+
+**Today's Progress:** 
+1. Introduction to Data Science in Python (Coursera): Working on WEEK 3 assignment
+
+**Thoughts:** Working on Week 3 assignment..Some questions are tricky, finding answers is difficult..
+I hope to solve those questions tomorrow...!!
 
