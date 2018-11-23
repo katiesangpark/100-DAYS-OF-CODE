@@ -325,8 +325,7 @@ Do NOT give up! :)
 
 ### Day 37: November 15, 2018
 
-**Today's Progress:** 
-1. Intro to Data Science in Python(Coursera): WEEK 2 programming assignment Passed.(Analysis of data & Programming in Pandas)
+**Today's Progress:** Intro to Data Science in Python(Coursera) - WEEK 2 programming assignment Passed.(Analysis of data & Programming in Pandas)
 
 **Thoughts:** It was great oppportunity for me to try pandas programming by this assignment.
 
@@ -342,9 +341,13 @@ Do NOT give up! :)
 
 ### Day 39: November 21, 2018
 
-**Today's Progress:** 
-1. Introduction to Data Science in Python (Coursera): Working on WEEK 3 assignment
+**Today's Progress:** Introduction to Data Science in Python (Coursera) - Working on WEEK 3 assignment
 
 **Thoughts:** Working on Week 3 assignment..Some questions are tricky, finding answers is difficult..
 I hope to solve those questions tomorrow...!!
 
+### Day 39: November 21, 2018
+
+**Today's Progress:** Introduction to Data Science in Python (Coursera) - WEEK 3 assignment PASSED!! :) 
+
+**Thoughts:** There was a mistake in processing data and fixed it today, finally passed Week 3 assignment (Analysis of data & Programming in Pandas)..!! Nice!!
