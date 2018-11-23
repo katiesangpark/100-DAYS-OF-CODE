@@ -346,7 +346,7 @@ Do NOT give up! :)
 **Thoughts:** Working on Week 3 assignment..Some questions are tricky, finding answers is difficult..
 I hope to solve those questions tomorrow...!!
 
-### Day 39: November 21, 2018
+### Day 40: November 21, 2018
 
 **Today's Progress:** Introduction to Data Science in Python (Coursera) - WEEK 3 assignment PASSED!! :) 
 
